@@ -1,3 +1,3 @@
 # Devops-deploy-vue3
 
-A Vue3 DevOps deployment case, behind Jenkis and github communication 👨‍🎓
+A Vue3 DevOps deployment case, behind Jenkis and github communication 👨‍
