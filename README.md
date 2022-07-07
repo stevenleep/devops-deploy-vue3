@@ -7,3 +7,4 @@ recently working on Continuous Integration (CI) and Continuous Deployment (CD) s
   - Deployment Example：[http://114.117.169.123)
   - Deployment Project：[Test Project](https://github.com/branlice/devops-deploy-vue3)
 
+![Server](./server.png)
