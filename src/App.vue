@@ -3,7 +3,8 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <h1>测试Vue3的部署</h1>
+  <HelloWorld msg="Hello Vue 3" />
 </template>
 
 <style>
