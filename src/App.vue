@@ -4,6 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <h1>测试Vue3的部署</h1>
+  <span>应该会触发自动部署</span>
   <HelloWorld msg="Hello Vue 3" />
 </template>
 
