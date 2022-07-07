@@ -8,8 +8,7 @@
   
   最新稳定版本时间：{{ new Date() }}
   
-  <b>服务器选材为：</b>
-  
+  <b>服务器选为:</b>
   <img src="../server.png" href="" />
   
 </template>
