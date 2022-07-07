@@ -7,6 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <span>应该会触发自动部署</span>
   
   20220708 01:41
+  {{ new Date() }}
   
   <HelloWorld msg="Hello Vue3" />
 </template>
