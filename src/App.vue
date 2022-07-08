@@ -1,13 +1,10 @@
-<script setup lang="ts">
-// import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <h1>测试Vue3的部署</h1>
-  <span>项目由GitPush和手动构建</span>
-  
-  最新稳定版本时间：{{ new Date() }}
+  <Header />
 </template>
+
+<script setup lang="ts">
+import Header from "./components/Header.vue";
+</script>
 
 <style>
 #app {
