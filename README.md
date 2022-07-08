@@ -1,6 +1,9 @@
-# Devops-deploy-vue3
+# Simple-deploy-vue3
 
-A Vue3 DevOps deployment case, behind Jenkis and github communication 👨‍
+This repository shows the re-build and redeployment of the project triggered when the developer pushes code to the main branch, 
+[project deployed address](https://http://114.117.169.123/)
 
-
-recently working on Continuous Integration (CI) and Continuous Deployment (CD) services
+## Enabled Features
+- [x] Build on specific branche via Hook
+- [x] Rapid rollback of online environments
+- [ ] Blue-Green Deployment
