@@ -7,10 +7,6 @@
   <span>项目由GitPush和手动构建</span>
   
   最新稳定版本时间：{{ new Date() }}
-  
-  <b>服务器选为:</b>
-  <img src="../server.png" href="" />
-  
 </template>
 
 <style>
